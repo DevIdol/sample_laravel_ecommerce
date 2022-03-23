@@ -128,6 +128,7 @@ https://templatemo.com/tm-546-sixteen-clothing
             </div>
         </div>
     </div>
+    
     <!-- Banner Ends Here -->
 
     @include('user.product')
